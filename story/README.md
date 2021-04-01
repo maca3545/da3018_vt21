@@ -1,6 +1,6 @@
 # The version controlled story
 
-This folder contains a story that I want helpy with. It is very short and not
+This folder contains a story that I want help with. It is very short and not
 very good. Please extend it and improve it! How good can we make this?
 
 * Fork the course repository on github.com.
@@ -13,7 +13,7 @@ I will try to handle pull requests as they come in. Since you are likely to make
 I might discard some story suggestions. Don't take it personal! It will not be story quality, but
 my convenience that determines how the story evolves.
 
-Also, you are very welcome to pull edits from my repo to your repo and make more edits.
+Also, you are very welcome to pull edits from my repository to your repository and make more edits.
 
 Here are the rules:
 
