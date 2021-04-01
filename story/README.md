@@ -5,7 +5,7 @@ very good. Please extend it and improve it! How good can we make this?
 
 * Fork the course repository on github.com.
 * Make a local copy of the repository on your hard disk (using `git clone` etc).
-* Edit the file `story/the_story.md` and commit the change(s).
+* Edit the file `the_story.md` and commit the change(s).
 * Push the file to your github repository.
 * Make a pull request to me.
 
