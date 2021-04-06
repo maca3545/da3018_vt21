@@ -1,6 +1,11 @@
 # A story in DA3018
 
-Two tomatoes were crossing a road, when one of them suddenly got run over by a truck.
+Two tomatoes were crossing a road, when one of them suddenly got run over by a taxi cab.
 Then the other tomato said: come on ketchup, let's go.
 Ketchup said: No, I can't. My legs are all mashed up now. Let's call sausage for help.
 Then the NY Cab Driver that drove over Ketchup said: "I'm drivin' 'ere!!"
+
+Sausage picked up the phone and Tomato explained what had happened. Being
+of the opportunistic kind, and without any regard for the ethical problems
+of turning your friends into food, Sausage suggested that Tomato offer the
+cab driver some of Ketchup.
