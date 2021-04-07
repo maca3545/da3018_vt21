@@ -9,3 +9,5 @@ Sausage picked up the phone and Tomato explained what had happened. Being
 of the opportunistic kind, and without any regard for the ethical problems
 of turning your friends into food, Sausage suggested that Tomato offer the
 cab driver some of Ketchup.
+
+But what would the cab driver do with the offered condiment without any food to eat it with? 
