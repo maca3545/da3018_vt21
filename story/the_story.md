@@ -11,3 +11,8 @@ of turning your friends into food, Sausage suggested that Tomato offer the
 cab driver some of Ketchup.
 
 But what would the cab driver do with the offered condiment without any food to eat it with? 
+
+But the cab driver was long gone. Not willing to leave his saucy friend behind Tomato
+quickly scooped Ketchup into a rusty old bucket he found sitting next to the road. 
+"Lets not let this keep us down!", said Tomato while skipping off the road,
+"Gurglegurgle", answered Ketchup.
