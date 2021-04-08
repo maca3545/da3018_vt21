@@ -9,3 +9,8 @@ Sausage picked up the phone and Tomato explained what had happened. Being
 of the opportunistic kind, and without any regard for the ethical problems
 of turning your friends into food, Sausage suggested that Tomato offer the
 cab driver some of Ketchup.
+
+But the cab driver was long gone. Not willing to leave his saucy friend behind Tomato
+quickly scooped Ketchup into a rusty old bucket he found sitting next to the road. 
+"Lets not let this keep us down!", said Tomato while skipping off the road,
+"Gurglegurgle", answered Ketchup.
